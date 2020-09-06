@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work in progress (tentative titles) on Arthur Van Camp</title>
-    <link>arthurvancamp.github.io/wip/</link>
+    <link>https://arthurvancamp.github.io/wip/</link>
     <description>Recent content in Work in progress (tentative titles) on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="arthurvancamp.github.io/wip/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arthurvancamp.github.io/wip/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A note on Archimedean and even convex sets of desirable gambles</title>
-      <link>arthurvancamp.github.io/wip/archimedaenity/</link>
+      <link>https://arthurvancamp.github.io/wip/archimedaenity/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>arthurvancamp.github.io/wip/archimedaenity/</guid>
+      <guid>https://arthurvancamp.github.io/wip/archimedaenity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
-      <link>arthurvancamp.github.io/wip/plackett-luce/</link>
+      <link>https://arthurvancamp.github.io/wip/plackett-luce/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>arthurvancamp.github.io/wip/plackett-luce/</guid>
+      <guid>https://arthurvancamp.github.io/wip/plackett-luce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coherent choice functions without Archimedeanity</title>
-      <link>arthurvancamp.github.io/wip/nonarchcfs/</link>
+      <link>https://arthurvancamp.github.io/wip/nonarchcfs/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>arthurvancamp.github.io/wip/nonarchcfs/</guid>
+      <guid>https://arthurvancamp.github.io/wip/nonarchcfs/</guid>
       <description></description>
     </item>
     
