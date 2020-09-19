@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
+      <link>https://arthurvancamp.github.io/proceeding/sum2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/proceeding/sum2020/</guid>
+      <description>Abstract Learning ranking models is a difficult task, in which data may be scarce and cautious predictions desirable. To address such issues, we explore the extension of the popular parametric probabilistic Plackett–Luce model, often used to model rankings, to the imprecise setting where estimated parameters are set-valued. In particular, we study how to achieve cautious or conservative inference with it, and illustrate their application on label ranking problems, a specific supervised learning task.</description>
+    </item>
+    
+    <item>
       <title>Optimal control of a linear system subject to partially specified input noise</title>
       <link>https://arthurvancamp.github.io/journal/ijrnc2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>

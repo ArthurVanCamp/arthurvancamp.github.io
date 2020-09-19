@@ -6,7 +6,16 @@
     <description>Recent content in Articles in conference proceedings on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/proceeding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/proceeding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
+      <link>https://arthurvancamp.github.io/proceeding/sum2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/proceeding/sum2020/</guid>
+      <description>Abstract Learning ranking models is a difficult task, in which data may be scarce and cautious predictions desirable. To address such issues, we explore the extension of the popular parametric probabilistic Plackett–Luce model, often used to model rankings, to the imprecise setting where estimated parameters are set-valued. In particular, we study how to achieve cautious or conservative inference with it, and illustrate their application on label ranking problems, a specific supervised learning task.</description>
+    </item>
+    
     <item>
       <title>Irrelevant natural extension for choice functions</title>
       <link>https://arthurvancamp.github.io/proceeding/isipta2019/</link>
