@@ -6,7 +6,16 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Independent Natural Extension for Choice Functions </title>
+      <link>https://arthurvancamp.github.io/proceeding/isipta2021/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/proceeding/isipta2021/</guid>
+      <description>Abstract We investigate epistemic independence for choice functions in a multivariate setting. This work is a continuation of earlier work of one of the authors, and our results build on the characterization of choice functions in terms of sets of binary preferences recently established by De Bock and De Cooman. We obtain the independent natural extension in this framework. Given the generality of choice functions, our expression for the independent natural extension is the most general one we are aware of, and we show how it implies the independent natural extension for sets of desirable gambles, and therefore also for less informative imprecise-probabilistic models.</description>
+    </item>
+    
     <item>
       <title>Modelling epistemic irrelevance with choice functions</title>
       <link>https://arthurvancamp.github.io/journal/ijar2020a/</link>
