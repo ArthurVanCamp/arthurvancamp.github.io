@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Inférer à partir d’un modèle de Plackett-Luce imprécis : application au rangement d’étiquettes</title>
+      <link>https://arthurvancamp.github.io/proceeding/lfa2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/proceeding/lfa2020/</guid>
+      <description>Abstract L&amp;rsquo;apprentissage de modèle de rangement est une tâche difficile, dans laquelle les données fournies peuvent être limitées, expliquant qu&amp;rsquo;une prédiction prudente soit désirable. Pour répondre à cette problématique, nous utilisons un modèle probabiliste paramétrique très populaire : le modèle de Plackett–Luce. Ce modèle est ici appliqué dans le cas imprécis où les paramètres estimés ont valeur dans des ensembles. En particulier, nous étudions comment faire une inférence prudente et sceptique à partir de ce modèle, et illustrons son application en apprentissage supervisé sur le problème de rangement d&amp;rsquo;étiquettes.</description>
+    </item>
+    
+    <item>
       <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
       <link>https://arthurvancamp.github.io/proceeding/sum2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
