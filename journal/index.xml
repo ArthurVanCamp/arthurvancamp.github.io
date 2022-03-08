@@ -6,7 +6,16 @@
     <description>Recent content in Articles in journals on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposing some points of interest about non-exposed points of desirability</title>
+      <link>https://arthurvancamp.github.io/journal/ijar2022a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/journal/ijar2022a/</guid>
+      <description>Abstract We study the representation of sets of desirable gambles by sets of probability mass functions. Sets of desirable gambles are a very general uncertainty model, that may be non-Archimedean, and therefore not representable by a set of probability mass functions. Recently, Cozman (2018) has shown that imposing the additional requirement of even convexity on sets of desirable gambles guarantees that they are representable by a set of probability mass functions.</description>
+    </item>
+    
     <item>
       <title>Modelling epistemic irrelevance with choice functions</title>
       <link>https://arthurvancamp.github.io/journal/ijar2020a/</link>

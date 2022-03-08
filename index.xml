@@ -6,7 +6,16 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposing some points of interest about non-exposed points of desirability</title>
+      <link>https://arthurvancamp.github.io/journal/ijar2022a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/journal/ijar2022a/</guid>
+      <description>Abstract We study the representation of sets of desirable gambles by sets of probability mass functions. Sets of desirable gambles are a very general uncertainty model, that may be non-Archimedean, and therefore not representable by a set of probability mass functions. Recently, Cozman (2018) has shown that imposing the additional requirement of even convexity on sets of desirable gambles guarantees that they are representable by a set of probability mass functions.</description>
+    </item>
+    
     <item>
       <title>Independent Natural Extension for Choice Functions</title>
       <link>https://arthurvancamp.github.io/proceeding/isipta2021/</link>
@@ -103,7 +112,7 @@
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://arthurvancamp.github.io/thesis/phd/</guid>
-      <description>Summary This dissertation presents a study of choice functions as a tool to model uncertainty. Choice functions constitute a very general uncertainty model that is capable of representing a rich variety of types of beliefs. In particular, it includes as a special case sets of desirable gambles, the most general binary—or pairwise—choice model in imprecise probabilities. So the field of this dissertation is `imprecise probabilities&#39;, which is an umbrella term for mathematical models that are meant to be used in situations of imprecise or incomplete information, where it may not be possible (or advisable) to use (precise) probabilities.</description>
+      <description>Summary This dissertation presents a study of choice functions as a tool to model uncertainty. Choice functions constitute a very general uncertainty model that is capable of representing a rich variety of types of beliefs. In particular, it includes as a special case sets of desirable gambles, the most general binary—or pairwise—choice model in imprecise probabilities. So the field of this dissertation is `imprecise probabilities&amp;rsquo;, which is an umbrella term for mathematical models that are meant to be used in situations of imprecise or incomplete information, where it may not be possible (or advisable) to use (precise) probabilities.</description>
     </item>
     
     <item>
@@ -122,15 +131,6 @@
       
       <guid>https://arthurvancamp.github.io/proceeding/isipta2017/</guid>
       <description>Abstract We investigate how to model exchangeability with choice functions. Exchangeability is a structural assessment on a sequence of uncertain variables. We show how such assessments constitute a special kind of indifference assessment, and how this idea leads to a counterpart of de Finetti’s Representation Theorem, both in a finite and a countable context.</description>
-    </item>
-    
-    <item>
-      <title>A note on Archimedean and even convex sets of desirable gambles</title>
-      <link>https://arthurvancamp.github.io/wip/archimedaenity/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://arthurvancamp.github.io/wip/archimedaenity/</guid>
-      <description></description>
     </item>
     
     <item>
