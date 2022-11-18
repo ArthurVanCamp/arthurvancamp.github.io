@@ -6,7 +6,16 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Independent natural extension for choice functions</title>
+      <link>https://arthurvancamp.github.io/journal/ijar2023a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/journal/ijar2023a/</guid>
+      <description>Abstract We introduce an independence notion for choice functions, which we call `epistemic independence&amp;rsquo; following the work by De Cooman et al. (2011) for lower previsions, and study it in a multivariate setting. This work is a continuation of earlier work of one of the authors, and our results build on the characterization of choice functions in terms of sets of binary preferences recently established by De Bock and De Cooman (2018).</description>
+    </item>
+    
     <item>
       <title>Exposing some points of interest about non-exposed points of desirability</title>
       <link>https://arthurvancamp.github.io/journal/ijar2022a/</link>
