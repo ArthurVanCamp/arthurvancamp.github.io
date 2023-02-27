@@ -6,7 +6,16 @@
     <description>Recent content in Book chapters on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/bookchapters/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/bookchapters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coherent choice functions without Archimedeanity</title>
+      <link>https://arthurvancamp.github.io/bookchapters/rfps2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/bookchapters/rfps2023/</guid>
+      <description>Abstract We study whether it is possible to generalise Seidenfeld et al.’s representation result for coherent choice functions in terms of sets of probability/utility pairs when we let go of Archimedeanity. We show that the convexity property is necessary but not sufficient for a choice function to be an infimum of a class of lexicographic ones. For the special case of two-dimensional option spaces, we determine the necessary and sufficient conditions by weakening the Archimedean axiom.</description>
+    </item>
+    
     <item>
       <title>Choice functions and rejection sets</title>
       <link>https://arthurvancamp.github.io/bookchapters/tmotu2018/</link>

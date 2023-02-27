@@ -6,7 +6,34 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A study of Jeffrey’s Rule with imprecise probability models</title>
+      <link>https://arthurvancamp.github.io/wip/jeffrey/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/wip/jeffrey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The logic behind desirable sets of things, and its filter representation</title>
+      <link>https://arthurvancamp.github.io/wip/filters-and-things/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/wip/filters-and-things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent choice functions without Archimedeanity</title>
+      <link>https://arthurvancamp.github.io/bookchapters/rfps2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/bookchapters/rfps2023/</guid>
+      <description>Abstract We study whether it is possible to generalise Seidenfeld et al.’s representation result for coherent choice functions in terms of sets of probability/utility pairs when we let go of Archimedeanity. We show that the convexity property is necessary but not sufficient for a choice function to be an infimum of a class of lexicographic ones. For the special case of two-dimensional option spaces, we determine the necessary and sufficient conditions by weakening the Archimedean axiom.</description>
+    </item>
+    
     <item>
       <title>Independent natural extension for choice functions</title>
       <link>https://arthurvancamp.github.io/journal/ijar2023a/</link>
@@ -148,15 +175,6 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://arthurvancamp.github.io/wip/plackett-luce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coherent choice functions without Archimedeanity</title>
-      <link>https://arthurvancamp.github.io/wip/nonarchcfs/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://arthurvancamp.github.io/wip/nonarchcfs/</guid>
       <description></description>
     </item>
     
