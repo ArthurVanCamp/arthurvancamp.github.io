@@ -8,6 +8,15 @@
     <language>en-gb</language>
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mini lecture</title>
+      <link>https://arthurvancamp.github.io/mini-lecture/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurvancamp.github.io/mini-lecture/</guid>
+      <description>Content Welcome to the mini lecture on k-means clustering! Please find the slides here and the solution to Exercises 3 here.</description>
+    </item>
+    
+    <item>
       <title>A study of Jeffrey’s Rule with imprecise probability models</title>
       <link>https://arthurvancamp.github.io/wip/jeffrey/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
