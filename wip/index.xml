@@ -6,33 +6,28 @@
     <description>Recent content in Work in progress (tentative titles) on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurvancamp.github.io/wip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arthurvancamp.github.io/wip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A study of Jeffrey’s Rule with imprecise probability models</title>
       <link>https://arthurvancamp.github.io/wip/jeffrey/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://arthurvancamp.github.io/wip/jeffrey/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The logic behind desirable sets of things, and its filter representation</title>
       <link>https://arthurvancamp.github.io/wip/filters-and-things/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://arthurvancamp.github.io/wip/filters-and-things/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
       <link>https://arthurvancamp.github.io/wip/plackett-luce/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://arthurvancamp.github.io/wip/plackett-luce/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
