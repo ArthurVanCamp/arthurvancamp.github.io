@@ -6,8 +6,15 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inferring from an imprecise Plackett–Luce model: Application to label ranking</title>
+      <link>https://arthurvancamp.github.io/journal/fss2024/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://arthurvancamp.github.io/journal/fss2024/</guid>
+      <description>Abstract The Plackett–Luce model is a popular parametric probabilistic model to define distributions between rankings of objects, modelling for instance observed preferences of users or ranked performances of algorithms. Since such observations may be scarce (users may provide partial preferences, or not all algorithms are run for a given experiment), it may be useful to consider the case where the parameters of the Plackett–Luce model are imprecisely known. In this paper, we first introduce the imprecise Plackett–Luce model, induced by a set of parameters (for instance, parameters with a high relative likelihood).</description>
+    </item>
     <item>
       <title>Desirable Sets of Things and Their Logic</title>
       <link>https://arthurvancamp.github.io/proceeding/isipta2023b/</link>
@@ -27,12 +34,7 @@
       <link>https://arthurvancamp.github.io/mini-lecture/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://arthurvancamp.github.io/mini-lecture/</guid>
-      <description>Content Welcome to the mini lecture on k-means clustering!
-Date: 15 May 2023
-TU Eindhoven
-Room MF 11/12
-Slides Find the slides here.
-Exercises Find the solution to Exercise 3 here.</description>
+      <description>Content Welcome to the mini lecture on k-means clustering!&#xA;Date: 15 May 2023&#xA;TU Eindhoven&#xA;Room MF 11/12&#xA;Slides Find the slides here.&#xA;Exercises Find the solution to Exercise 3 here.</description>
     </item>
     <item>
       <title>A study of Jeffrey’s Rule with imprecise probability models</title>
@@ -159,13 +161,6 @@ Exercises Find the solution to Exercise 3 here.</description>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://arthurvancamp.github.io/proceeding/isipta2017/</guid>
       <description>Abstract We investigate how to model exchangeability with choice functions. Exchangeability is a structural assessment on a sequence of uncertain variables. We show how such assessments constitute a special kind of indifference assessment, and how this idea leads to a counterpart of de Finetti’s Representation Theorem, both in a finite and a countable context.</description>
-    </item>
-    <item>
-      <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
-      <link>https://arthurvancamp.github.io/wip/plackett-luce/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/wip/plackett-luce/</guid>
-      <description></description>
     </item>
     <item>
       <title>Lexicographic choice functions without archimedeanicity</title>

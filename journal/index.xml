@@ -6,8 +6,15 @@
     <description>Recent content in Articles in journals on Arthur Van Camp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arthurvancamp.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inferring from an imprecise Plackett–Luce model: Application to label ranking</title>
+      <link>https://arthurvancamp.github.io/journal/fss2024/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://arthurvancamp.github.io/journal/fss2024/</guid>
+      <description>Abstract The Plackett–Luce model is a popular parametric probabilistic model to define distributions between rankings of objects, modelling for instance observed preferences of users or ranked performances of algorithms. Since such observations may be scarce (users may provide partial preferences, or not all algorithms are run for a given experiment), it may be useful to consider the case where the parameters of the Plackett–Luce model are imprecisely known. In this paper, we first introduce the imprecise Plackett–Luce model, induced by a set of parameters (for instance, parameters with a high relative likelihood).</description>
+    </item>
     <item>
       <title>Independent natural extension for choice functions</title>
       <link>https://arthurvancamp.github.io/journal/ijar2023a/</link>
