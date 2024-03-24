@@ -218,12 +218,5 @@
       <guid>https://arthurvancamp.github.io/proceeding/ipmu2012/</guid>
       <description>Abstract We present a method for learning imprecise local uncertainty models in stationary hidden Markov models. If there is enough data to justify precise local uncertainty models, then existing learning algorithms, such as the Baum–Welch algorithm, can be used. When there is not enough evidence to justify precise models, the method we suggest here has a number of interesting features.</description>
     </item>
-    <item>
-      <title></title>
-      <link>https://arthurvancamp.github.io/regatta/email/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/regatta/email/</guid>
-      <description>Ghent International Spring Regatta 13 en 14 april 2024 Gentse Roei- en Sportvereniging VZW&#xA;Beste vriend van de Gentse RS,&#xA;Hoera! Onze internationale regatta komt dichterbij: op 13 en 14 april 2024 is onze Watersportbaan het centrum van de roeiwereld! Met deze e-mail doen we graag een vriendelijke oproep naar medewerkers, schenkers van trofee&amp;#235;n, en materiaal. Medewerkers De inschrijvingen uit o.a. Belgi&amp;#235;, Nederland, Frankrijk, Duitsland, Verenigd Koninkrijk, Noorwegen en zelfs China zijn aan het binnenlopen en de voorbereidingen lopen op volle toeren!</description>
-    </item>
   </channel>
 </rss>
