@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book chapters on Arthur Van Camp</title>
-    <link>http://localhost:1313/bookchapters/</link>
+    <link>https://arthurvancamp.github.io/bookchapters/</link>
     <description>Recent content in Book chapters on Arthur Van Camp</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/bookchapters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arthurvancamp.github.io/bookchapters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coherent choice functions without Archimedeanity</title>
-      <link>http://localhost:1313/bookchapters/rfps2023/</link>
+      <link>https://arthurvancamp.github.io/bookchapters/rfps2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookchapters/rfps2023/</guid>
+      <guid>https://arthurvancamp.github.io/bookchapters/rfps2023/</guid>
       <description>Abstract We study whether it is possible to generalise Seidenfeld et al.’s representation result for coherent choice functions in terms of sets of probability/utility pairs when we let go of Archimedeanity. We show that the convexity property is necessary but not sufficient for a choice function to be an infimum of a class of lexicographic ones. For the special case of two-dimensional option spaces, we determine the necessary and sufficient conditions by weakening the Archimedean axiom.</description>
     </item>
     <item>
       <title>Choice functions and rejection sets</title>
-      <link>http://localhost:1313/bookchapters/tmotu2018/</link>
+      <link>https://arthurvancamp.github.io/bookchapters/tmotu2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookchapters/tmotu2018/</guid>
+      <guid>https://arthurvancamp.github.io/bookchapters/tmotu2018/</guid>
       <description>Abstract We establish an equivalent representation of coherent choice functions in terms of a family of rejection sets, and investigate how each of the coherence axioms translates into this framework. In addition, we show that this family allows to simplify the verification of coherence in a number of particular cases.</description>
     </item>
     <item>
       <title>Lexicographic choice functions without archimedeanicity</title>
-      <link>http://localhost:1313/bookchapters/smps2016/</link>
+      <link>https://arthurvancamp.github.io/bookchapters/smps2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bookchapters/smps2016/</guid>
+      <guid>https://arthurvancamp.github.io/bookchapters/smps2016/</guid>
       <description>Abstract We investigate the connection between choice functions and lexicographic probabilities, by means of the convexity axiom considered by Seidenfeld et al. (2010) but without imposing any Archimedean condition. We show that lexicographic probabilities are related to a particular type of sets of desirable gambles, and investigate the properties of the coherent choice function this induces via maximality. Finally, we show that the convexity axiom is necessary but not sufficient for a coherent choice function to be the infimum of a class of lexicographic ones.</description>
     </item>
   </channel>

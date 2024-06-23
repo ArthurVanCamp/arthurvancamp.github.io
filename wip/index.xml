@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work in progress (tentative titles) on Arthur Van Camp</title>
-    <link>http://localhost:1313/wip/</link>
+    <link>https://arthurvancamp.github.io/wip/</link>
     <description>Recent content in Work in progress (tentative titles) on Arthur Van Camp</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/wip/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arthurvancamp.github.io/wip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A study of Jeffrey’s Rule with imprecise probability models</title>
-      <link>http://localhost:1313/wip/jeffrey/</link>
+      <link>https://arthurvancamp.github.io/wip/jeffrey/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wip/jeffrey/</guid>
+      <guid>https://arthurvancamp.github.io/wip/jeffrey/</guid>
       <description></description>
     </item>
     <item>
       <title>The logic behind desirable sets of things, and its filter representation</title>
-      <link>http://localhost:1313/wip/filters-and-things/</link>
+      <link>https://arthurvancamp.github.io/wip/filters-and-things/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wip/filters-and-things/</guid>
+      <guid>https://arthurvancamp.github.io/wip/filters-and-things/</guid>
       <description></description>
     </item>
   </channel>
