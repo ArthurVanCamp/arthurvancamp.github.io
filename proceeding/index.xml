@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles in conference proceedings on Arthur Van Camp</title>
+    <link>http://localhost:1313/proceeding/</link>
+    <description>Recent content in Articles in conference proceedings on Arthur Van Camp</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/proceeding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desirable Sets of Things and Their Logic</title>
+      <link>http://localhost:1313/proceeding/isipta2023b/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2023b/</guid>
+      <description>Abstract We identify the logic behind the recent theory of coherent sets of desirable (sets of) things, which generalise coherent sets of desirable (sets of) gambles and coherent choice functions, and show that this identification allows us to establish various representation results for such coherent models in terms of simpler ones.</description>
+    </item>
+    <item>
+      <title>A Study of Jeffrey’s Rule With Imprecise Probability Models</title>
+      <link>http://localhost:1313/proceeding/isipta2023a/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2023a/</guid>
+      <description>Abstract Jeffrey&amp;rsquo;s rule tells us how to update our beliefs about a probability measure when we have updated information conditional on some partition of the possibility space, while keeping the original marginal information on this partition. It is linked to the law of total probability, and is therefore connected to the notion of marginal extension of coherent lower previsions. In this paper, we investigate its formulation for some other imprecise probability models that are either more general (choice functions) or more particular (possibility measures, distortion models) than coherent lower previsions.</description>
+    </item>
+    <item>
+      <title>Independent Natural Extension for Choice Functions</title>
+      <link>http://localhost:1313/proceeding/isipta2021/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2021/</guid>
+      <description>Abstract We investigate epistemic independence for choice functions in a multivariate setting. This work is a continuation of earlier work of one of the authors, and our results build on the characterization of choice functions in terms of sets of binary preferences recently established by De Bock and De Cooman. We obtain the independent natural extension in this framework. Given the generality of choice functions, our expression for the independent natural extension is the most general one we are aware of, and we show how it implies the independent natural extension for sets of desirable gambles, and therefore also for less informative imprecise-probabilistic models.</description>
+    </item>
+    <item>
+      <title>Inférer à partir d’un modèle de Plackett-Luce imprécis : application au rangement d’étiquettes</title>
+      <link>http://localhost:1313/proceeding/lfa2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/lfa2020/</guid>
+      <description>Abstract L&amp;rsquo;apprentissage de modèle de rangement est une tâche difficile, dans laquelle les données fournies peuvent être limitées, expliquant qu&amp;rsquo;une prédiction prudente soit désirable. Pour répondre à cette problématique, nous utilisons un modèle probabiliste paramétrique très populaire : le modèle de Plackett–Luce. Ce modèle est ici appliqué dans le cas imprécis où les paramètres estimés ont valeur dans des ensembles. En particulier, nous étudions comment faire une inférence prudente et sceptique à partir de ce modèle, et illustrons son application en apprentissage supervisé sur le problème de rangement d&amp;rsquo;étiquettes.</description>
+    </item>
+    <item>
+      <title>Inferring from an imprecise Plackett–Luce model: application to label ranking</title>
+      <link>http://localhost:1313/proceeding/sum2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/sum2020/</guid>
+      <description>Abstract Learning ranking models is a difficult task, in which data may be scarce and cautious predictions desirable. To address such issues, we explore the extension of the popular parametric probabilistic Plackett–Luce model, often used to model rankings, to the imprecise setting where estimated parameters are set-valued. In particular, we study how to achieve cautious or conservative inference with it, and illustrate their application on label ranking problems, a specific supervised learning task.</description>
+    </item>
+    <item>
+      <title>Irrelevant natural extension for choice functions</title>
+      <link>http://localhost:1313/proceeding/isipta2019/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2019/</guid>
+      <description>Abstract We consider coherent choice functions under the recent axiomatisation proposed by De Bock and de Cooman that guarantees a representation in terms of binary preferences, and we discuss how to define conditioning in this framework. In a multivariate context, we propose a notion of marginalisation, and its inverse operation called weak (cylindrical) extension. We combine this with our definition of conditioning to define a notion of irrelevance, and we obtain the irrelevant natural extension in this framework: the least informative choice function that satisfies a given irrelevance assessment.</description>
+    </item>
+    <item>
+      <title>Natural extension of choice functions</title>
+      <link>http://localhost:1313/proceeding/ipmu2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/ipmu2018/</guid>
+      <description>Abstract We extend the notion of natural extension, that gives the least committal extension of a given assessment, from the theory of sets of desirable gambles to that of choice functions. We give an expression of this natural extension and characterise its existence by means of a property called avoiding complete rejection. We prove that our notion reduces indeed to the standard one in the case of choice functions determined by binary comparisons, and that these are not general enough to determine all coherent choice function.</description>
+    </item>
+    <item>
+      <title>Exchangeable choice functions</title>
+      <link>http://localhost:1313/proceeding/isipta2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2017/</guid>
+      <description>Abstract We investigate how to model exchangeability with choice functions. Exchangeability is a structural assessment on a sequence of uncertain variables. We show how such assessments constitute a special kind of indifference assessment, and how this idea leads to a counterpart of de Finetti’s Representation Theorem, both in a finite and a countable context.</description>
+    </item>
+    <item>
+      <title>Modelling indifference with choice functions</title>
+      <link>http://localhost:1313/proceeding/isipta2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2015/</guid>
+      <description>Abstract We investigate how to model indifference with choice functions. We take the coherence axioms for choice functions proposed by Seidenfeld, Schervisch and Kadane as a source of inspiration, but modify them to strengthen the connection with desirability. We discuss the properties of choice functions that are coherent under our modified set of axioms and the connection with desirability. Once this is in place, we present an axiomatisation of indifference in terms of desirability.</description>
+    </item>
+    <item>
+      <title>Robustifying the Viterbi algorithm</title>
+      <link>http://localhost:1313/proceeding/pgm2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/pgm2014/</guid>
+      <description>Abstract We present an efficient algorithm for estimating hidden state sequences in imprecise hidden Markov models (iHMMs), based on observed output sequences. The main difference with classical HMMs is that the local models of an iHMM are not represented by a single mass function, but rather by a set of mass functions. We consider as estimates for the hidden state sequence those sequences that are maximal. In this way, we generalise the problem of finding a state sequence with highest posterior probability, as is commonly considered in HMMs, and solved efficiently by the Viterbi algorithm.</description>
+    </item>
+    <item>
+      <title>Modelling practical certainty and its link with classical propositional logic</title>
+      <link>http://localhost:1313/proceeding/isipta2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/isipta2013/</guid>
+      <description>Abstract We model practical certainty in the language of accept &amp;amp; reject statement-based uncertainty models. We present three different ways, each time using a different nature of assessment: we study coherent models following from (i) favourability assessments, (ii) acceptability assessments, and (iii) indifference assessments. We argue that a statement of favourability, when used with an appropriate background model, essentially boils down to stating a belief of practical certainty using acceptability assessments.</description>
+    </item>
+    <item>
+      <title>Recent advances in imprecise-probabilistic graphical models</title>
+      <link>http://localhost:1313/proceeding/ecai2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/ecai2012/</guid>
+      <description>Abstract We summarise and provide pointers to recent advances in inference and identification for specific types of probabilistic graphical models using imprecise probabilities. Robust inferences can be made in so-called credal networks when the local models attached to their nodes are imprecisely specified as conditional lower previsions, by using exact algorithms whose complexity is comparable to that for the precise-probabilistic counterparts.</description>
+    </item>
+    <item>
+      <title>A new method for learning imprecise hidden Markov models</title>
+      <link>http://localhost:1313/proceeding/ipmu2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proceeding/ipmu2012/</guid>
+      <description>Abstract We present a method for learning imprecise local uncertainty models in stationary hidden Markov models. If there is enough data to justify precise local uncertainty models, then existing learning algorithms, such as the Baum–Welch algorithm, can be used. When there is not enough evidence to justify precise models, the method we suggest here has a number of interesting features.</description>
+    </item>
+  </channel>
+</rss>
