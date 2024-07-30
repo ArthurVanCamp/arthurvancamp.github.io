@@ -6,8 +6,15 @@
     <description>Recent content in Articles in journals on Arthur Van Camp</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arthurvancamp.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The logic behind desirable sets of things, and its filter representation</title>
+      <link>https://arthurvancamp.github.io/journal/ijar2024/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://arthurvancamp.github.io/journal/ijar2024/</guid>
+      <description>Abstract We identify the (filter representation of the) logic behind the recent theory of coherent sets of desirable (sets of) things, which generalise coherent sets of desirable (sets of) gambles as well as coherent choice functions, and show that this identification allows us to establish various representation results for such coherent models in terms of simpler ones.</description>
+    </item>
     <item>
       <title>Inferring from an imprecise Plackett–Luce model: Application to label ranking</title>
       <link>https://arthurvancamp.github.io/journal/fss2024/</link>
