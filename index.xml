@@ -6,8 +6,15 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The law of iterated expectation and imprecise probabilities</title>
+      <link>https://arthurvancamp.github.io/journal/fss2025/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://arthurvancamp.github.io/journal/fss2025/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;The law of iterated expectation tells us how to combine hierarchical pieces of information when our uncertainty is modelled by means of probability measures. It has been extended to the imprecise case through Walley&amp;rsquo;s marginal extension theorem for coherent lower previsions. In this paper, we&#xA;investigate the extent to which a similar result can be established for other imprecise probability models that are either more general (choice functions) or more particular (possibility measures, belief functions) than coherent lower previsions. By doing this, we also establish links with other results established in the literature in the context of imprecise versions of Jeffrey&amp;rsquo;s rule.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The logic behind desirable sets of things, and its filter representation</title>
       <link>https://arthurvancamp.github.io/journal/ijar2024/</link>
