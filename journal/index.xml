@@ -31,23 +31,23 @@
     </item>
     <item>
       <title>Independent natural extension for choice functions</title>
-      <link>https://arthurvancamp.github.io/journal/ijar2023a/</link>
+      <link>https://arthurvancamp.github.io/journal/ijar2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/journal/ijar2023a/</guid>
+      <guid>https://arthurvancamp.github.io/journal/ijar2023/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We introduce an independence notion for choice functions, which we call &amp;rsquo;epistemic independence&amp;rsquo; following the work by De Cooman et al. (2011) for lower previsions, and study it in a multivariate setting. This work is a continuation of earlier work of one of the authors, and our results build on the characterization of choice functions in terms of sets of binary preferences recently established by De Bock and De Cooman (2018). We obtain the many-to-one independent natural extension in this framework. Given the generality of choice functions, our expression for the independent natural extension is the most general one we are aware of, and we show how it implies the independent natural extension for sets of desirable gambles, and therefore also for less expressive imprecise-probabilistic models. Once this is in place, we compare this concept of epistemic independence to another independence concept for choice functions proposed by Seidenfeld (2010), which De Bock and De Cooman (2021) have called S-independence. We show that neither is more general than the other.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exposing some points of interest about non-exposed points of desirability</title>
-      <link>https://arthurvancamp.github.io/journal/ijar2022a/</link>
+      <link>https://arthurvancamp.github.io/journal/ijar2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/journal/ijar2022a/</guid>
+      <guid>https://arthurvancamp.github.io/journal/ijar2022/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study the representation of sets of desirable gambles by sets of probability mass functions. Sets of desirable gambles are a very general uncertainty model, that may be non-Archimedean, and therefore not representable by a set of probability mass functions. Recently, Cozman (2018) has shown that imposing the additional requirement of even convexity on sets of desirable gambles guarantees that they are representable by a set of probability mass functions. Already more that 20 years earlier, Seidenfeld et al. (1995) gave an axiomatisation of binary preferences—on horse lotteries, rather than on gambles—that also leads to a unique representation in terms of sets of probability mass functions. To reach this goal, they use two devices, which we will call &amp;lsquo;SSK–Archimedeanity&amp;rsquo; and &amp;lsquo;SSK–extension&amp;rsquo;. In this paper, we will make the arguments of Seidenfeld et al. (1995) explicit in the language of gambles, and show how their ideas imply even convexity and allow for conservative reasoning with evenly convex sets of desirable gambles, by deriving an equivalence between the SSK–Archimedean natural extension, the SSK–extension, and the evenly convex natural extension.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modelling epistemic irrelevance with choice functions</title>
-      <link>https://arthurvancamp.github.io/journal/ijar2020a/</link>
+      <link>https://arthurvancamp.github.io/journal/ijar2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/journal/ijar2020a/</guid>
+      <guid>https://arthurvancamp.github.io/journal/ijar2020/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We consider coherent choice functions under the recent axiomatisation proposed by De Bock and de Cooman that guarantees a representation in terms of binary preferences, and we discuss how to define conditioning in this framework. In a multivariate context, we propose a notion of marginalisation, and its inverse operation called weak (cylindrical) extension. We combine this with our definition of conditioning to define a notion of irrelevance, and we obtain the irrelevant natural extension in this framework: the least informative choice function that satisfies a given irrelevance assessment.&lt;/p&gt;</description>
     </item>
     <item>
