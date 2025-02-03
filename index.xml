@@ -44,20 +44,6 @@
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Jeffrey&amp;rsquo;s rule tells us how to update our beliefs about a probability measure when we have updated information conditional on some partition of the possibility space, while keeping the original marginal information on this partition. It is linked to the law of total probability, and is therefore connected to the notion of marginal extension of coherent lower previsions. In this paper, we investigate its formulation for some other imprecise probability models that are either more general (choice functions) or more particular (possibility measures, distortion models) than coherent lower previsions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A study of Jeffrey’s Rule with imprecise probability models</title>
-      <link>https://arthurvancamp.github.io/wip/jeffrey/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/wip/jeffrey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The logic behind desirable sets of things, and its filter representation</title>
-      <link>https://arthurvancamp.github.io/wip/filters-and-things/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/wip/filters-and-things/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Coherent choice functions without Archimedeanity</title>
       <link>https://arthurvancamp.github.io/bookchapters/rfps2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
