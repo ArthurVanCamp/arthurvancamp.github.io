@@ -6,8 +6,15 @@
     <description>Recent content on Arthur Van Camp</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arthurvancamp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The marginal problem for sets of desirable gamble sets</title>
+      <link>https://arthurvancamp.github.io/proceeding/isipta2025/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://arthurvancamp.github.io/proceeding/isipta2025/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study the marginal problem for sets of desirable gamble sets (SoDGSes), which is equivalent to studying this problem for choice functions. More specifically, given a number of marginal SoDGSes on overlapping domains, we establish conditions under which they are compatible in the sense that they can be derived from a common joint SoDGS. We do so for SoDGSes that admit a concrete finite representation. Our main result is that such SoDGSes are compatible if they are pairwise compatible and if a running intersection property is satisfied.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The law of iterated expectation and imprecise probabilities</title>
       <link>https://arthurvancamp.github.io/journal/fss2025/</link>
@@ -157,9 +164,9 @@
     </item>
     <item>
       <title>Lexicographic choice functions without archimedeanicity</title>
-      <link>https://arthurvancamp.github.io/bookchapters/smps2016/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/bookchapters/smps2016/</guid>
+      <link>https://arthurvancamp.github.io/proceeding/smps2016/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://arthurvancamp.github.io/proceeding/smps2016/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We investigate the connection between choice functions and lexicographic probabilities, by means of the convexity axiom considered by Seidenfeld et al. (2010) but without imposing any Archimedean condition.&#xA;We show that lexicographic probabilities are related to a particular type of sets of desirable gambles, and investigate the properties of the coherent choice function this induces via maximality.&#xA;Finally, we show that the convexity axiom is necessary but not sufficient for a coherent choice function to be the infimum of a class of lexicographic ones.&lt;/p&gt;</description>
     </item>
     <item>
