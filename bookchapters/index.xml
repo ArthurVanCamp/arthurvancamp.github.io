@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Book chapters on Arthur Van Camp</title>
-    <link>https://arthurvancamp.github.io/bookchapters/</link>
-    <description>Recent content in Book chapters on Arthur Van Camp</description>
-    <generator>Hugo</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://arthurvancamp.github.io/bookchapters/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Coherent choice functions without Archimedeanity</title>
-      <link>https://arthurvancamp.github.io/bookchapters/rfps2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/bookchapters/rfps2023/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study whether it is possible to generalise Seidenfeld et al.’s representation result for coherent choice functions in terms of sets of probability/utility pairs when we let go of Archimedeanity.&#xA;We show that the convexity property is necessary but not sufficient for a choice function to be an infimum of a class of lexicographic ones.&#xA;For the special case of two-dimensional option spaces, we determine the necessary and sufficient conditions by weakening the Archimedean axiom.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Choice functions and rejection sets</title>
-      <link>https://arthurvancamp.github.io/bookchapters/tmotu2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://arthurvancamp.github.io/bookchapters/tmotu2018/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We establish an equivalent representation of coherent choice functions in terms of a family of rejection sets, and investigate how each of the coherence axioms translates into this framework.&#xA;In addition, we show that this family allows to simplify the verification of coherence in a number of particular cases.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Book chapters on Arthur Van Camp</title>
+		<link>https://arthurvancamp.github.io/bookchapters/</link>
+		<description>Recent content in Book chapters on Arthur Van Camp</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://arthurvancamp.github.io/bookchapters/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Coherent choice functions without Archimedeanity</title>
+				<link>https://arthurvancamp.github.io/bookchapters/rfps2023/</link>
+				<pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+				<guid>https://arthurvancamp.github.io/bookchapters/rfps2023/</guid>
+				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study whether it is possible to generalise Seidenfeld et al.’s representation result for coherent choice functions in terms of sets of probability/utility pairs when we let go of Archimedeanity.&#xA;We show that the convexity property is necessary but not sufficient for a choice function to be an infimum of a class of lexicographic ones.&#xA;For the special case of two-dimensional option spaces, we determine the necessary and sufficient conditions by weakening the Archimedean axiom.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Choice functions and rejection sets</title>
+				<link>https://arthurvancamp.github.io/bookchapters/tmotu2018/</link>
+				<pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+				<guid>https://arthurvancamp.github.io/bookchapters/tmotu2018/</guid>
+				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We establish an equivalent representation of coherent choice functions in terms of a family of rejection sets, and investigate how each of the coherence axioms translates into this framework.&#xA;In addition, we show that this family allows to simplify the verification of coherence in a number of particular cases.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
