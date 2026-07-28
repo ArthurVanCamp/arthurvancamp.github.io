@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://arthurvancamp.github.io/proceeding/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A preliminary study of notions of independence for choice functions</title>
+				<link>https://arthurvancamp.github.io/proceeding/ipmu2026/</link>
+				<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://arthurvancamp.github.io/proceeding/ipmu2026/</guid>
+				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study independence concepts for imprecise-probabilistic choice functions.&#xA;Leveraging the idea that a choice function is represented by a collection of coherent sets of desirable gambles, we introduce representational independence as the requirement of having an independent representation.&#xA;We derive the representational product, which is the smallest coherent choice function that marginalises to given choice functions and satisfies representational independence.&#xA;By applying similar proof techniques, we also obtain the independent product for the existing S-independence.&#xA;We compare these products, together with the existing epistemic product, and derive some of their properties.&#xA;Finally, we discuss open questions concerning the independence notions.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The marginal problem for sets of desirable gamble sets</title>
 				<link>https://arthurvancamp.github.io/proceeding/isipta2025/</link>
