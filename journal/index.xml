@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 01 Dec 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://arthurvancamp.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The marginal problem for sets of desirable gambles sets with a finite representation</title>
+				<link>https://arthurvancamp.github.io/journal/ijar2026/</link>
+				<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+				<guid>https://arthurvancamp.github.io/journal/ijar2026/</guid>
+				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study the marginal problem for sets of desirable gamble sets (SoDGSes), which is equivalent to studying this problem for choice functions. More specifically, given a number of marginal SoDGSes on overlapping domains, we establish conditions under which they are compatible in the sense that they can be derived from a common joint SoDGS. We do so for SoDGSes that admit a concrete finite representation. Our main result is that such SoDGSes are compatible if they are pairwise compatible and if a running intersection property is satisfied. Additionally, we study representations of the smallest compatible joint and, provided the representation is finite, we derive an iterative method of constructing such joint and its representation.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The law of iterated expectation and imprecise probabilities</title>
 				<link>https://arthurvancamp.github.io/journal/fss2025/</link>
