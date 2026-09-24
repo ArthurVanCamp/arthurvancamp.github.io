@@ -21,6 +21,13 @@
 				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study the marginal problem for sets of desirable gamble sets (SoDGSes), which is equivalent to studying this problem for choice functions. More specifically, given a number of marginal SoDGSes on overlapping domains, we establish conditions under which they are compatible in the sense that they can be derived from a common joint SoDGS. We do so for SoDGSes that admit a concrete finite representation. Our main result is that such SoDGSes are compatible if they are pairwise compatible and if a running intersection property is satisfied. Additionally, we study representations of the smallest compatible joint and, provided the representation is finite, we derive an iterative method of constructing such joint and its representation.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Sets of Desirable Gamble Sets and their Representations as Information Algebras</title>
+				<link>https://arthurvancamp.github.io/proceeding/smps2026/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://arthurvancamp.github.io/proceeding/smps2026/</guid>
+				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study sets of desirable gamble sets, which are closely related to choice functions, from the perspective of information algebras, which is a framework for reasoning with partial information in a multivariate setting.&#xA;We show that closed sets of desirable gamble sets, as well as their representations consisting of sets of closed sets of desirable gambles, form information algebras.&#xA;For a natural map between these algebras, the marginalisation and combination operators commute.&#xA;Finally, we prove that this mapping is indeed a homomorphism, guaranteeing that the two algebras contain the same information and induce the same marginalisation and combination operators.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Foundations of imprecise probabilities: Choice functions</title>
 				<link>https://arthurvancamp.github.io/presentation/sipta-summer-school-2026/</link>
 				<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>

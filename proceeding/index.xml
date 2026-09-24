@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://arthurvancamp.github.io/proceeding/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sets of Desirable Gamble Sets and their Representations as Information Algebras</title>
+				<link>https://arthurvancamp.github.io/proceeding/smps2026/</link>
+				<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://arthurvancamp.github.io/proceeding/smps2026/</guid>
+				<description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;We study sets of desirable gamble sets, which are closely related to choice functions, from the perspective of information algebras, which is a framework for reasoning with partial information in a multivariate setting.&#xA;We show that closed sets of desirable gamble sets, as well as their representations consisting of sets of closed sets of desirable gambles, form information algebras.&#xA;For a natural map between these algebras, the marginalisation and combination operators commute.&#xA;Finally, we prove that this mapping is indeed a homomorphism, guaranteeing that the two algebras contain the same information and induce the same marginalisation and combination operators.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>A preliminary study of notions of independence for choice functions</title>
 				<link>https://arthurvancamp.github.io/proceeding/ipmu2026/</link>
